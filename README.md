@@ -13,6 +13,7 @@
 <li>Manipulação de arrays de objetos, incluindo busca e remoção de elementos.</li>
 <li>Cálculos com datas para determinar a idade das pessoas.</li>
 <li>Criação de novos arrays sem modificar o original usando spread syntax (<code>...</code>).</li>
+<br/>
 
 Datas Importantes:
 <li>Início: 07/03/2024</li>
